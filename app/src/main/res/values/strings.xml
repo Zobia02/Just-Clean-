@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JustClean</string>
+    <string name="login">LOGIN</string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="loginEmail">Email (abc@xyz.com)</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginforgotpassword">Forgot Password?</string>
+    <string name="registertxt">Create an account</string>
+    <string name="register">REGISTER</string>
+    <string name="registerEmail">Email (abc@xyz.com)</string>
+    <string name="registerPassword">Password</string>
+    <string name="registerUsername">Username</string>
+    <string name="registerphonenumber">Mobile Number</string>
+    <string name="registerbutton">REGISTER</string>
+    <string name="splashlogo">Copyrights Reserved</string>
+    <string name="splashlabel">Just Clean</string>
+    <string name="resetpassemail">RESET PASSWORD</string>
+    <string name="emailadressforrestpass">Email Address</string>
+
+
+</resources>

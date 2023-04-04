@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210496779013",
+    "project_id": "justclean-f6dbf",
+    "storage_bucket": "justclean-f6dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210496779013:android:57b4480312bac03c483d6c",
+        "android_client_info": {
+          "package_name": "com.example.justclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210496779013-8bo3b1nb0ns2bhvttlt40t025ubb3c37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbJUEBiPDGSAfc1Udpc4e9wJlSy1s_Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210496779013-8bo3b1nb0ns2bhvttlt40t025ubb3c37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
